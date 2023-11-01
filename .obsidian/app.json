@@ -4,5 +4,7 @@
   "newFileLocation": "current",
   "showIndentGuide": false,
   "showLineNumber": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "vimMode": true,
+  "alwaysUpdateLinks": true
 }

@@ -2,5 +2,8 @@
   "accentColor": "",
   "theme": "system",
   "cssTheme": "Everforest Enchanted",
-  "monospaceFontFamily": "MonoLisa"
+  "monospaceFontFamily": "MonoLisa",
+  "enabledCssSnippets": [
+    "image-utils"
+  ]
 }

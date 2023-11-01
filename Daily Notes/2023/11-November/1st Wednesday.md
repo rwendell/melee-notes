@@ -2,7 +2,6 @@
 - [ ] Ledgedash
 - [ ] Shine Grab
 	- [ ] JC grab
-## Comments
 # Match Notes
 ## Goal:
 ## Analysis

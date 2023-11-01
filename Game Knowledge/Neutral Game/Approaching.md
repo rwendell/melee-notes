@@ -9,4 +9,3 @@
 - [ ] Up-tilt
 - [ ] Double jump mixups
 - [ ] Laser Camp
-- [ ] 
