@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Knowledge/Neutral Game/Approaching.md",
+                "file": "Daily Notes/2023/11-November/1st Wednesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Game Knowledge/Neutral Game/Approaching.md",
+            "file": "Daily Notes/2023/11-November/1st Wednesday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Game Knowledge/Neutral Game/Approaching.md",
+            "file": "Daily Notes/2023/11-November/1st Wednesday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Game Knowledge/Neutral Game/Approaching.md"
+            "file": "Daily Notes/2023/11-November/1st Wednesday.md"
           }
         }
       },
@@ -142,6 +142,10 @@
   },
   "active": "aa63a30f3a2f809a",
   "lastOpenFiles": [
+    "Health/Warm Ups.md",
+    "Daily Notes/2023/11-November/1st Wednesday.md",
+    "Health/Excercises.md",
+    "Game Knowledge/Neutral Game/Approaching.md",
     "Game Knowledge/Approaching.md"
   ]
 }

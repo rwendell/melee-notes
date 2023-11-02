@@ -1,11 +1,11 @@
 # Approach Tools
 ## Offense
-- [ ] Running Shine
-- [ ] SHFFL Nair
-- [ ] Drill
+- Running Shine
+- SHFFL Nair
+- Drill
 ## Defense
-- [ ] D-tilt
-- [ ] Grab
-- [ ] Up-tilt
-- [ ] Double jump mixups
-- [ ] Laser Camp
+- D-tilt
+- Grab
+- Up-tilt
+- Double jump mixups
+- Laser Camp
