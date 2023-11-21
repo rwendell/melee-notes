@@ -13,7 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2023/11-November/1st Wednesday.md",
+                "file": "Game Knowledge/Matchups/Fox.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      },
+      {
+        "id": "f5dd8e5cccb2f5f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff3dfe590704c348",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Health/Stretches.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +104,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily Notes/2023/11-November/1st Wednesday.md",
+            "file": "Game Knowledge/Matchups/Fox.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +121,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily Notes/2023/11-November/1st Wednesday.md",
+            "file": "Game Knowledge/Matchups/Fox.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +133,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily Notes/2023/11-November/1st Wednesday.md"
+            "file": "Game Knowledge/Matchups/Fox.md"
           }
         }
       },
@@ -142,10 +161,24 @@
   },
   "active": "aa63a30f3a2f809a",
   "lastOpenFiles": [
-    "Health/Warm Ups.md",
-    "Daily Notes/2023/11-November/1st Wednesday.md",
-    "Health/Excercises.md",
+    "Health/Stretches.md",
+    "Game Knowledge/Tech Skill.md",
+    "Game Knowledge/Neutral and General Game Plan.md",
+    "Game Knowledge/Matchups/Fox.md",
+    "Game Knowledge/Punish Game.md",
+    "res/templates/matchup.md",
+    "Game Knowledge/Matchups/Captain Falcon.md",
+    "Game Knowledge/Matchups/Jigglypuff.md",
+    "Game Knowledge/Matchups/Marth.md",
+    "Game Knowledge/Matchups/Falco.md",
+    "Daily Notes/2023/11-November/4th Saturday.md",
     "Game Knowledge/Neutral Game/Approaching.md",
+    "Game Knowledge/Matchups/Sheik.md",
+    "Game Knowledge/Matchups",
+    "Daily Notes/2023/11-November/1st Wednesday.md",
+    "res/templates/daily notes.md",
+    "Health/Warm Ups.md",
+    "Health/Excercises.md",
     "Game Knowledge/Approaching.md"
   ]
 }
