@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overview.md",
+                "file": "Game Knowledge/Tech Skill.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Overview.md"
+                "file": "Game Knowledge/Tech Skill.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overview.md",
+                "file": "Game Knowledge/Tech Skill.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Overview.md",
+                "file": "Game Knowledge/Tech Skill.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,17 +190,18 @@
   "active": "3ba30a09a5dd4651",
   "lastOpenFiles": [
     "Game Knowledge/Punish.md",
+    "Untitled.md",
+    "Overview.md",
     "Game Knowledge/Game States/Neutral.md",
     "Game Knowledge/Game States/Disadvantage.md",
     "Game Knowledge/Game States/Advantage.md",
     "Game Knowledge/Game States",
     "res/templates/daily notes.md",
-    "Overview.md",
     "Daily Notes/2023/11-November/25th Saturday.md",
     "Health/Excercises.md",
     "Health/Warm Ups.md",
     "Health/Stretches.md",
-    "Game Knowledge/Tech.md",
+    "Game Knowledge/Tech Skill.md",
     "Game Knowledge/Matchups/Falco.md",
     "Game Knowledge/Matchups/Fox.md",
     "Game Knowledge/Matchups/Jigglypuff.md",
@@ -225,7 +226,6 @@
     "res/attachments/Thumb Push.gif",
     "Health/Thumb Sweep.png.md",
     "res/goals.md",
-    "Daily Notes/2023/10-October/31st Tuesday.md",
     "Daily Notes/2023/11-November",
     "New Text Document.txt",
     "Health/Warm Ups",
