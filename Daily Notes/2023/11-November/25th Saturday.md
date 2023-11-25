@@ -3,7 +3,6 @@
 - [ ] Shine Grab
 - [ ] Shine OOS
 - [ ] Late Aerial
-- [ ] Approaching Shine
 ## Comments
 # Match Notes
 ## Goal:

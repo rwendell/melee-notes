@@ -1,7 +1,7 @@
 {
   "showInlineTitle": false,
   "attachmentFolderPath": "res/attachments",
-  "newFileLocation": "current",
+  "newFileLocation": "root",
   "showIndentGuide": false,
   "showLineNumber": false,
   "promptDelete": false,
