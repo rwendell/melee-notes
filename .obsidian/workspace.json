@@ -8,43 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c5d37777352c5835",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c66ac19625d9e435",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Knowledge/Game States/Neutral.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "588257a747805114",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Knowledge/Tech Skill.md",
+                "file": "Game Knowledge/Matchups/Fox.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "447d5bd0bdfc0f8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2023/11-November/26th Sunday.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "stall",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Knowledge/Tech Skill.md"
+                "file": "Game Knowledge/Matchups/Fox.md"
               }
             }
           },
@@ -135,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Knowledge/Tech Skill.md",
+                "file": "Game Knowledge/Matchups/Fox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Knowledge/Tech Skill.md",
+                "file": "Game Knowledge/Matchups/Fox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,30 +174,31 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3ba30a09a5dd4651",
+  "active": "588257a747805114",
   "lastOpenFiles": [
-    "Game Knowledge/Punish.md",
-    "Untitled.md",
+    "Game Knowledge/Matchups/Sheik.md",
+    "Game Knowledge/Matchups/Marth.md",
+    "Game Knowledge/Matchups/Jigglypuff.md",
+    "Game Knowledge/Matchups/Fox.md",
+    "Game Knowledge/Matchups/Falco.md",
+    "Game Knowledge/Matchups/Captain Falcon.md",
+    "Game Knowledge/Combos.md",
+    "Game Knowledge/Tech Skill.md",
     "Overview.md",
+    "Daily Notes/2023/11-November/26th Sunday.md",
     "Game Knowledge/Game States/Neutral.md",
     "Game Knowledge/Game States/Disadvantage.md",
     "Game Knowledge/Game States/Advantage.md",
-    "Game Knowledge/Game States",
     "res/templates/daily notes.md",
+    "res/goals.md",
     "Daily Notes/2023/11-November/25th Saturday.md",
-    "Health/Excercises.md",
-    "Health/Warm Ups.md",
-    "Health/Stretches.md",
-    "Game Knowledge/Tech Skill.md",
-    "Game Knowledge/Matchups/Falco.md",
-    "Game Knowledge/Matchups/Fox.md",
-    "Game Knowledge/Matchups/Jigglypuff.md",
-    "Game Knowledge/Matchups/Captain Falcon.md",
-    "Game Knowledge/Tech Skill.md",
-    "Game Knowledge/Neutral Game/Approaching.md",
     "res/templates/matchup.md",
-    "Game Knowledge/Matchups/Sheik.md",
-    "Game Knowledge/Matchups/Marth.md",
+    "Health/Warm Ups.md",
+    "Untitled.md",
+    "Game Knowledge/Game States",
+    "Health/Excercises.md",
+    "Health/Stretches.md",
+    "Game Knowledge/Neutral Game/Approaching.md",
     "Daily Notes/2023/11-November/4th Saturday.md",
     "Daily Notes/2023/11-November/12th Sunday.md",
     "Daily Notes/2023/11-November/1st Wednesday.md",
@@ -225,7 +213,6 @@
     "res/attachments/Thumb Pull.gif",
     "res/attachments/Thumb Push.gif",
     "Health/Thumb Sweep.png.md",
-    "res/goals.md",
     "Daily Notes/2023/11-November",
     "New Text Document.txt",
     "Health/Warm Ups",

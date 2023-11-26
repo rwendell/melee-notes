@@ -1,7 +1,5 @@
-# Jump out of Shine
-3 Frame jump out after hit with shine
 # JC Shine
-Cancel your vertical momentum and immediately enter a shine
+Cancel your vertical momentum and immediately enter a shine. Good for mix-ups and recovery
 # Dash JC Shine
 moving shine out of dash
 # Shield Drop Shine
