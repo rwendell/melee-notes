@@ -4,6 +4,8 @@ Typically used as a "combo move", you don't really use it on it's own.  You usua
 combo tool, bread and butter
 ### Combos
 #### Knock Down Characters
+##### Jab
+Leads into the other options listed below
 ##### Grab/Up-Smash
 Bread & Butter
 ##### Thunders
@@ -35,22 +37,23 @@ Not as relevant
 ### Short Hop
 More useful frame wise.
 *Important Note:* Early aerial can be grabbed after, late aerial can be grabbed before
-## JC Shine (Double/Multi Shine)
-Cancel your vertical momentum and immediately enter a shine. Good for mix-ups and recovery
+## JC Shine
+### Double/Multi Shine
+Cancel your vertical momentum and immediately enter a shine. 
+### Up Smash
+Great punish for players not expecting it
 # OOS
 Most universally useful options are shield grab, up-smash, nair, wavedash.  Shine/Waveshine have niche applications
 ## Shield-Drop
 A tool for instantly dropping from platforms
 ### Shine
 useful for hitting opponents poking below
-
 # Jump
 Fox does not have great aerial mobility/control.  In order to control Fox properly you need to decide how to move **before** your jump.
 ## Types of Jumps
 - Dash/Walk/Standstill -> Jump
 - Dash/Walk/Standstill  -> Jump -> Forward
 - Dash/Walk/Standstill  -> Jump -> Backwards
-
 # Dash Cancel
 ## Dash (Dashdance)
 ## Run -> Crouch
@@ -58,21 +61,18 @@ Great for setting up options
 ### shine 
 great poke and hard to punish + shine combos
 ### jab
-great for setting up jab upsmash
+great for setting up jab Up Smash
 ### d-tilt
-catch people running awa
-
+catch people running away
 ## Wavedash
 ## Shield
 Great for baiting out options and then shield grabbing/up smashing/or wavedash out
-
 # Recovery
 ## Firefox
 Main Recovery tool
 ### Tips
 - Make sure to hold up forwards after selecting an angle to recover better if they hit you out of firefox
 - You should almost always fast fall out of firefox
-
 ### Firefox Angles
 Learning how to snap to ledge from both sides
 ### Optimal location to start Up
@@ -83,7 +83,6 @@ Typically want to start high and away so you have many options and harder to stu
 Illusion can be ledge cancelled and become immediately actionable
 ## Side-B Shorten
 Mix up shorten timings to prevent opponents from reading your recovery
-
 # Laser Tech
 Not nearly as important as with Falco.  You never really want to do approaching laser because you aren't putting out a hitbox with knockback. One tip while lasering a while, holding shield will prevent standing laser.
 ## Laser land on platform

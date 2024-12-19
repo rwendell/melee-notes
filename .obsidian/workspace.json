@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "res/templates/daily notes.md",
+                "file": "Game Knowledge/Fox/Tech Skill.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "daily notes"
+              "title": "Tech Skill"
             }
           }
         ]
@@ -60,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5,
-    "collapsed": true
+    "width": 243.5
   },
   "right": {
     "id": "2de7d763c6bad9b5",
@@ -111,10 +110,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "res/templates/daily notes.md"
+                "file": "Game Knowledge/Fox/Tech Skill.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of daily notes"
+              "title": "Outline of Tech Skill"
             }
           },
           {
@@ -167,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 309.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,11 +182,16 @@
   },
   "active": "790fd5da97f69322",
   "lastOpenFiles": [
-    "Game Knowledge/Fox/Tech Skill Mastery.md",
-    "res/templates/daily notes.md",
     "Daily Notes/2024/12-December/19th Thursday.md",
-    "res/goals.md",
     "Game Knowledge/Fox/Tech Skill.md",
+    "Game Knowledge/Fox/Overview.md",
+    "Game Knowledge/Fox/Combos.md",
+    "Game Knowledge/Fox/Game States/Neutral.md",
+    "Game Knowledge/Fox/Game States/Disadvantage.md",
+    "Game Knowledge/Fox/Game States/Advantage.md",
+    "res/templates/daily notes.md",
+    "Game Knowledge/Fox/Tech Skill Mastery.md",
+    "res/goals.md",
     "Game Knowledge/Glossary.md",
     "Daily Notes/2024/12-December/16th Monday.md",
     "Daily Notes/2024/12-December/15th Sunday.md",
@@ -194,11 +199,6 @@
     "Game Knowledge/Falco/Game States/Neutral.md",
     "Game Knowledge/Falco/Game States/Disadvantage.md",
     "Game Knowledge/Falco/Game States/Advantage.md",
-    "Game Knowledge/Fox/Overview.md",
-    "Game Knowledge/Fox/Combos.md",
-    "Game Knowledge/Fox/Game States/Disadvantage.md",
-    "Game Knowledge/Fox/Game States/Neutral.md",
-    "Game Knowledge/Fox/Game States/Advantage.md",
     "Game Knowledge/Falco/Matchups/Falco.md",
     "Game Knowledge/Falco/Matchups/Captain Falcon.md",
     "Game Knowledge/Falco/Matchups/Sheik.md",
