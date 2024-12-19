@@ -21,10 +21,10 @@
 - FF from plat
 - Waveshine -> Jab
 ## Analysis
-**Dash to shield** is a great option when approaching aerial heavy neutral users (C. Falcon).  You can get out of bad situations by dashing in shielding then wavedashing out
+[[Game Knowledge/Fox/Tech Skill#Shield|Dash -> Shield]] is a great option when approaching aerial heavy neutral users (C. Falcon).  You can get out of bad situations by dashing in shielding then wavedashing out.
 
-**Run -> Crouch -> Option** is good when you are expecting to CC a move, Get in with a shine, or fishing for a kill confirm.  You shouldn't do it all the time because it isn't as safe.
+[[Game Knowledge/Fox/Tech Skill#Run -> Crouch|Run -> Crouch -> Option]] is good when you are expecting to CC a move, Get in with a shine, or fishing for a kill confirm.  You shouldn't do it all the time because it isn't as safe. 
 
 **FF from plat** is always good
 
-**Waveshine -> Jab** is similarly always a good option against knock-down characters
+[[Game Knowledge/Fox/Tech Skill#Jab|Waveshine -> Jab]] is similarly always a good option against knock-down characters.  You need to be running to confirm it in most scenarios. If you do it from standing, you probably won't be in range.

@@ -7,5 +7,6 @@
     "image-utils",
     "custom-line-width"
   ],
-  "baseFontSize": 24
+  "baseFontSize": 24,
+  "showViewHeader": true
 }

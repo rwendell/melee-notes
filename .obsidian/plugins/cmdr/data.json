@@ -16,7 +16,7 @@
     },
     {
       "id": "cmdr:macro-0",
-      "icon": "arrow-up-circle",
+      "icon": "lucide-arrow-up-circle",
       "name": "Commit & Push",
       "mode": "any"
     }
@@ -43,15 +43,23 @@
       "startup": false
     }
   ],
-  "explorer": [],
+  "explorer": [
+    {
+      "id": "canvas:new-file",
+      "icon": "lucide-layout-dashboard",
+      "name": "Create new canvas",
+      "mode": "any"
+    },
+    {
+      "id": "daily-notes",
+      "icon": "lucide-calendar-days",
+      "name": "Open today's daily note",
+      "mode": "any"
+    }
+  ],
   "hide": {
     "statusbar": [],
-    "leftRibbon": [
-      "Open quick switcher",
-      "Insert template",
-      "Open command palette",
-      "Templater"
-    ]
+    "leftRibbon": []
   },
   "spacing": 8,
   "advancedToolbar": {

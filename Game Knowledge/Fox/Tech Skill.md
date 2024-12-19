@@ -5,7 +5,7 @@ combo tool, bread and butter
 ### Combos
 #### Knock Down Characters
 ##### Jab
-Leads into the other options listed below
+Leads into the other options listed below. *must be from running shine*
 ##### Grab/Up-Smash
 Bread & Butter
 ##### Thunders
@@ -43,7 +43,7 @@ Cancel your vertical momentum and immediately enter a shine.
 ### Up Smash
 Great punish for players not expecting it
 # OOS
-Most universally useful options are shield grab, up-smash, nair, wavedash.  Shine/Waveshine have niche applications
+Most universally useful options are shield grab, up-smash, nair, wavedash. Shine/Waveshine have more niche applications.
 ## Shield-Drop
 A tool for instantly dropping from platforms
 ### Shine

@@ -12,7 +12,7 @@
 - [ ] 1x10 Run -> Crouch -> Jab
 - [ ] 1x10 Run -> Crouch -> D-Tilt
 - [ ] 3x10 FF from Plat
-- [ ] 2x8 Waveshine -> Jab
+- [ ] 2x8 Running waveshine -> Jab
 ## Comments
 
 # Match Notes
