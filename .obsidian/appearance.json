@@ -1,9 +1,11 @@
 {
   "accentColor": "",
   "theme": "system",
-  "cssTheme": "Everforest Enchanted",
+  "cssTheme": "Everforest",
   "monospaceFontFamily": "MonoLisa",
   "enabledCssSnippets": [
-    "image-utils"
-  ]
+    "image-utils",
+    "custom-line-width"
+  ],
+  "baseFontSize": 24
 }

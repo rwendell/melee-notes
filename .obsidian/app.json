@@ -1,10 +1,13 @@
 {
   "showInlineTitle": false,
   "attachmentFolderPath": "res/attachments",
-  "newFileLocation": "root",
+  "newFileLocation": "current",
   "showIndentGuide": false,
   "showLineNumber": false,
   "promptDelete": false,
   "vimMode": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "foldHeading": true,
+  "foldIndent": true
 }

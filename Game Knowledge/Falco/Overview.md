@@ -14,4 +14,4 @@ The enemy will always hit harder than you, but you will have to hit hard enough 
 - Dash
 - Jump squat
 - Shield
-# ![[Disadvantage#Recovery]]
+# ![[Game Knowledge/Fox/Game States/Disadvantage#Recovery]]

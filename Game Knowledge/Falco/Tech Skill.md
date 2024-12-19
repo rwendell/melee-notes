@@ -1,9 +1,13 @@
-# JC Shine
+# Shine Tech
+
+## JC Shine
 Cancel your vertical momentum and immediately enter a shine. Good for mix-ups and recovery
-# Dash JC Shine
+## Dash JC Shine
 moving shine out of dash
-# Shield Drop Shine
+## Shield Drop Shine
 If an opponent hits your shield on platform you can instantly drop shield and shine out of it.
+## Shine OOS
+A decent option out of shield if an opponent is very close to you
 # Side-B Shorten
 Mix up shorten timings to prevent opponents from reading your recovery
 # Lasers

@@ -1,3 +1,4 @@
+*repurposed from [[Game Knowledge/Falco/Game States/Disadvantage]]
 # Out of Shield
 ## Full & Short Hop
 ### Full Hop

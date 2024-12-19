@@ -1,0 +1,131 @@
+*Definition of Done: Can do 10 in a row without failing once acting in 2 frames or less*
+# Fundamentals
+## Aerial Movement
+- [x] Short Hop
+- [x] Fast Fall
+- [x] Full Hop
+- [x] Dash/Run/Walk/Standstill -> Jump -> No Drift
+- [x] Dash/Run/Walk/Standstill -> Jump -> Full Forward Drift
+- [x] Dash/Run/Walk/Standstill -> Jump -> Full Reverse Drift
+- [x] Aerials
+	- [x] Short Hop Aerials
+	- [x] Full Hop Aerials
+	- [x] Fast Fall Aerials
+	- [x] L-Cancelled Aerials
+		- [ ] On Shield
+			- [x] Nair
+			- [x] Fair
+			- [ ] Dair
+			- [x] Bair
+			- [ ] Up Air
+		- [ ] On Body
+			- [x] Nair
+			- [ ] Fair
+			- [x] Dair
+			- [x] Bair
+			- [ ] Up Air
+		- [x] Whiff
+	- [x] SHFFL Aerials
+		- [x]  On Shield
+		- [x] On Body
+		- [x] Whiff
+## Grounded Movement
+- [x] Walk
+- [x] Run
+	- [x] crouch
+		- [ ] shine 
+		- [ ]  jab
+		- [ ] d-tilt
+- [x] Dash
+	- [x] Dashdance
+	- [x] Wavedash
+	- [x] Shield
+	- [ ] Pivot
+- [x] Jump Cancel
+	- [x] Grab
+	- [ ] Up Smash
+	- [ ] Shine
+- [x] Moonwalk
+	- [x] Sticky Walk
+		- [ ] Boost Run
+			- [ ] Charlie Walk
+## Defensive Tech
+- [x] DI
+	- [x] SDI
+	- [x] ASDI
+- [ ] Teching
+	- [ ] Amsah Tech
+	- [ ] Wall Tech
+	- [ ] SDI Ledge Tech
+- [ ] Crouch Cancel
+- [x] Shield
+	- [ ] Nair OOS
+	- [ ] Shine
+	- [ ] Waveshine
+	- [x] Wavedash OOS
+	- [x] Shield Angling
+	- [ ] Shield Drop
+		- [ ] Aerial
+		- [ ] Shine
+- [ ] Roll
+	- [ ] C-Stick buffered roll from dash
+- [ ] Spot Dodge
+	- [ ] Shine
+## Platform Tech
+- [ ] ledge cancel
+- [ ] fast fall from platform
+- [ ] waveland
+# Shine
+- [ ] Waveshine
+	- [ ] Combos
+		Knock Down Characters:
+		- [ ] Grab
+		- [ ] Up-Smash
+		- [ ] Thunders
+		- [ ] Down Tilt
+		- [ ] F Tilt
+		Slide Characters:
+		- [ ] Waveshine
+		- [ ] Up-Smash
+		- [ ] Grab
+		- [ ] Downsmash
+		- [ ] Doubleshine
+- [ ] Shine Grab
+	- [ ] Shine Turnaround Grab
+- [ ] Shine -> Aerial
+	- [ ] Full Hop
+	- [ ] Short Hop
+- [ ] Shine Turnaround Firefox (ledgegrab)
+- [ ] JC Shine (Double/Multi Shine)
+- [ ] Jumping Shine
+	- [ ] Aerial
+	- [ ] Reverse Aerial (shine reverse backair)
+# Dash Cancel
+- [ ] Dash (Dashdance)
+- [ ] Run -> Crouch
+	- [ ] shine 
+	- [ ] jab
+	- [ ] d-tilt
+- [ ] Wavedash
+- [ ] Shield
+# Recovery
+- [ ] Firefox 
+	- [ ] Sweet Spot
+	- [ ] Refresh Invincibility
+- [ ] Illusion
+	- [ ] Sweet Spot
+	- [ ] Ledge Cancel
+	- [ ] Shorten
+# Laser
+- [ ] Short Hop Laser
+	- [ ] In Place/Retreating
+	- [ ] Double Laser
+- [ ] Laser land on platform
+# Ledge Options
+- [ ] Illusion on to stage
+- [ ] Standard/Slow Get Up
+- [ ] Ledge Jump
+	- [ ] Ledge Jump -> Aerial
+	- [ ] Ledge Jump to platform
+		- [ ] Waveland/Laser Land on Platform
+- [ ] Ledgedash
