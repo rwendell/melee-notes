@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024/12-December/19th Thursday.md",
+                "file": "res/templates/daily notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19th Thursday"
+              "title": "daily notes"
             }
           }
         ]
@@ -204,9 +204,9 @@
   },
   "active": "790fd5da97f69322",
   "lastOpenFiles": [
-    "res/templates/daily notes.md",
     "Daily Notes/2024/12-December/19th Thursday.md",
     "Game Knowledge/Fox/Tech Skill Mastery.md",
+    "res/templates/daily notes.md",
     "res/goals.md",
     "Game Knowledge/Fox/Tech Skill.md",
     "Game Knowledge/Glossary.md",

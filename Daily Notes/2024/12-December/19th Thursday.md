@@ -11,8 +11,8 @@
 - [x] 1x10 Run -> Crouch -> Shine
 - [x] 1x10 Run -> Crouch -> Jab
 - [x] 1x10 Run -> Crouch -> D-Tilt
-- [ ] 3x10 FF from Plat
-- [ ] Waveshine -> Jab
+- [x] 3x10 FF from Plat
+- [x] Waveshine -> Jab
 ## Comments
 # Match Notes
 ## Implementation Goals
