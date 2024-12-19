@@ -7,15 +7,45 @@
   "leftRibbon": [],
   "rightRibbon": [],
   "titleBar": [],
-  "statusBar": [],
+  "statusBar": [
+    {
+      "id": "obsidian-git:pull",
+      "icon": "arrow-down-circle",
+      "name": "Pull",
+      "mode": "any"
+    },
+    {
+      "id": "cmdr:macro-0",
+      "icon": "arrow-up-circle",
+      "name": "Commit & Push",
+      "mode": "any"
+    }
+  ],
   "pageHeader": [],
-  "macros": [],
+  "macros": [
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "obsidian-git:commit"
+        },
+        {
+          "action": 1,
+          "delay": "250"
+        },
+        {
+          "action": 0,
+          "commandId": "obsidian-git:push2"
+        }
+      ],
+      "name": "Commit & Push",
+      "icon": "star",
+      "startup": false
+    }
+  ],
   "explorer": [],
   "hide": {
-    "statusbar": [
-      "obsidian-git",
-      "obsidian-git"
-    ],
+    "statusbar": [],
     "leftRibbon": [
       "Open quick switcher",
       "Insert template",
