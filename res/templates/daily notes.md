@@ -6,18 +6,19 @@
 - [ ] 1x10 Run to Crouch
 - [ ] 1x10 JC Up Smash
 - [ ] 1x10 WD OOS
-
 ## Practice
 - [ ] 3x10 Short Hop Up Air On Body
 - [ ] 1x10 Run -> Crouch -> Shine
 - [ ] 1x10 Run -> Crouch -> Jab
 - [ ] 1x10 Run -> Crouch -> D-Tilt
-- [ ] 3x10 Wavedash OOS
 - [ ] 3x10 FF from Plat
 - [ ] Waveshine -> Jab
-
-
 ## Comments
+
 # Match Notes
-## Topic:
+## Implementation Goals
+- Dash -> Shield
+- Run -> Crouch -> Option
+- FF from plat
+- Waveshine -> Jab
 ## Analysis
