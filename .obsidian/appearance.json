@@ -4,8 +4,7 @@
   "cssTheme": "Everforest",
   "monospaceFontFamily": "MonoLisa",
   "enabledCssSnippets": [
-    "image-utils",
-    "custom-line-width"
+    "image-utils"
   ],
   "baseFontSize": 24
 }

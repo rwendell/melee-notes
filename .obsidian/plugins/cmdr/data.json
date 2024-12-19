@@ -13,12 +13,6 @@
       "icon": "arrow-down-circle",
       "name": "Pull",
       "mode": "any"
-    },
-    {
-      "id": "cmdr:macro-0",
-      "icon": "arrow-up-circle",
-      "name": "Commit & Push",
-      "mode": "any"
     }
   ],
   "pageHeader": [],
