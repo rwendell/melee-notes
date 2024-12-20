@@ -13,12 +13,6 @@
       "icon": "lucide-git-merge",
       "name": "Pull",
       "mode": "any"
-    },
-    {
-      "id": "cmdr:macro-0",
-      "icon": "lucide-git-pull-request-create-arrow",
-      "name": "Commit & Push",
-      "mode": "any"
     }
   ],
   "pageHeader": [],
@@ -43,7 +37,20 @@
       "startup": false
     }
   ],
-  "explorer": [],
+  "explorer": [
+    {
+      "id": "daily-notes",
+      "icon": "lucide-calendar-days",
+      "name": "Open today's daily note",
+      "mode": "any"
+    },
+    {
+      "id": "canvas:new-file",
+      "icon": "lucide-layout-dashboard",
+      "name": "Create new canvas",
+      "mode": "any"
+    }
+  ],
   "hide": {
     "statusbar": [],
     "leftRibbon": []
