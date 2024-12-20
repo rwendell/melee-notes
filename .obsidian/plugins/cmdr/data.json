@@ -1,5 +1,5 @@
 {
-  "confirmDeletion": true,
+  "confirmDeletion": false,
   "showAddCommand": true,
   "debug": false,
   "editorMenu": [],
@@ -10,13 +10,13 @@
   "statusBar": [
     {
       "id": "obsidian-git:pull",
-      "icon": "arrow-down-circle",
+      "icon": "lucide-git-merge",
       "name": "Pull",
       "mode": "any"
     },
     {
       "id": "cmdr:macro-0",
-      "icon": "lucide-arrow-up-circle",
+      "icon": "lucide-git-pull-request-create-arrow",
       "name": "Commit & Push",
       "mode": "any"
     }
@@ -43,20 +43,7 @@
       "startup": false
     }
   ],
-  "explorer": [
-    {
-      "id": "canvas:new-file",
-      "icon": "lucide-layout-dashboard",
-      "name": "Create new canvas",
-      "mode": "any"
-    },
-    {
-      "id": "daily-notes",
-      "icon": "lucide-calendar-days",
-      "name": "Open today's daily note",
-      "mode": "any"
-    }
-  ],
+  "explorer": [],
   "hide": {
     "statusbar": [],
     "leftRibbon": []

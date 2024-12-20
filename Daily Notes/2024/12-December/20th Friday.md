@@ -1,9 +1,6 @@
----
-template: "[[daily notes]]"
----
 # Practice
 ## Warmup
-- [ ] 2x10 Shorthops
+- [x] 3x10 Shorthops
 - [ ] 3x10 Full Hop Fast Fall
 - [ ] 1x6 SHFFL Aerials on Shield/Body
 - [ ] 1x10 Run to Crouch

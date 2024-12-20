@@ -1,8 +1,9 @@
 [
   "calendar",
-  "obsidian-hider",
-  "obsidian-git",
-  "templater-obsidian",
   "OA-file-hider",
-  "cmdr"
+  "obsidian-git",
+  "cmdr",
+  "obsidian-hider",
+  "templater-obsidian",
+  "file-manager"
 ]
