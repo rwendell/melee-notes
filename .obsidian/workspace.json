@@ -11,10 +11,15 @@
             "id": "8766e57ff937794c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024/10-October/15th Tuesday.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "15th Tuesday"
             }
           }
         ]
@@ -178,7 +183,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "feb87f35440d7ece",
+  "active": "8766e57ff937794c",
   "lastOpenFiles": [
     "Daily Notes/2024/12-December/20th Friday.md",
     "Untitled.canvas",

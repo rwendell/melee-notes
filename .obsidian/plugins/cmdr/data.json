@@ -13,6 +13,12 @@
       "icon": "lucide-git-merge",
       "name": "Pull",
       "mode": "any"
+    },
+    {
+      "id": "cmdr:macro-0",
+      "icon": "lucide-git-pull-request-arrow",
+      "name": "Commit & Push",
+      "mode": "any"
     }
   ],
   "pageHeader": [],
@@ -48,6 +54,12 @@
       "id": "canvas:new-file",
       "icon": "lucide-layout-dashboard",
       "name": "Create new canvas",
+      "mode": "any"
+    },
+    {
+      "id": "file-explorer:reveal-active-file",
+      "icon": "lucide-navigation",
+      "name": "Reveal current file in navigation",
       "mode": "any"
     }
   ],
