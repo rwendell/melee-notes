@@ -1,10 +1,12 @@
 {
-  "accentColor": "",
+  "accentColor": "#87a693",
   "theme": "system",
   "cssTheme": "Everforest",
-  "monospaceFontFamily": "MonoLisa",
+  "monospaceFontFamily": "MonoLisa Nerd Font Mono",
   "enabledCssSnippets": [
-    "image-utils"
+    "image-utils",
+    "custom-line-width",
+    "properties-hider"
   ],
   "baseFontSize": 24,
   "showViewHeader": true

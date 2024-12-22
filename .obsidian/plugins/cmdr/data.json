@@ -16,7 +16,7 @@
     },
     {
       "id": "cmdr:macro-0",
-      "icon": "lucide-git-pull-request-arrow",
+      "icon": "lucide-git-pull-request-create-arrow",
       "name": "Commit & Push",
       "mode": "any"
     }
@@ -58,7 +58,7 @@
     },
     {
       "id": "file-explorer:reveal-active-file",
-      "icon": "lucide-navigation",
+      "icon": "lucide-crosshair",
       "name": "Reveal current file in navigation",
       "mode": "any"
     }

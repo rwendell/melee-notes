@@ -1,18 +1,18 @@
 # Practice
 ## Warmup
 - [x] 3x10 Shorthops
-- [ ] 3x10 Full Hop Fast Fall
-- [ ] 1x6 SHFFL Aerials on Shield/Body
-- [ ] 1x10 Run to Crouch
-- [ ] 1x10 JC Up Smash
-- [ ] 1x10 WD OOS
+- [x] 3x10 Full Hop Fast Fall
+- [x] 1x6 SHFFL Aerials on Shield/Body
+- [x] 1x10 Run to Crouch
+- [x] 1x10 JC Up Smash
+- [x] 1x10 WD OOS
 ## Practice
-- [ ] 3x10 Short Hop Up Air On Body
-- [ ] 1x10 Run -> Crouch -> Shine
-- [ ] 1x10 Run -> Crouch -> Jab
-- [ ] 1x10 Run -> Crouch -> D-Tilt
-- [ ] 3x10 FF from Plat
-- [ ] 2x8 Running waveshine -> Jab
+- [x] 3x10 Short Hop Up Air On Body
+- [x] 1x10 Run -> Crouch -> Shine
+- [x] 1x10 Run -> Crouch -> Jab
+- [x] 1x10 Run -> Crouch -> D-Tilt
+- [x] 3x10 FF from Plat
+- [x] 2x8 Running waveshine -> Jab
 ## Comments
 
 # Match Notes
@@ -22,3 +22,6 @@
 - FF from plat
 - Waveshine -> Jab
 ## Analysis
+running shine is super strong and not very committal
+
+dash -> shield can't be stopped lol
