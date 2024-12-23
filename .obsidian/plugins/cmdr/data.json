@@ -13,6 +13,12 @@
       "icon": "lucide-git-merge",
       "name": "Pull",
       "mode": "any"
+    },
+    {
+      "id": "cmdr:macro-0",
+      "icon": "lucide-git-pull-request-create-arrow",
+      "name": "Commander: Commit & Push",
+      "mode": "any"
     }
   ],
   "pageHeader": [
@@ -65,7 +71,13 @@
     }
   ],
   "hide": {
-    "statusbar": [],
+    "statusbar": [
+      "file-manager",
+      "file-manager",
+      "word-count",
+      "editor-status",
+      "backlink"
+    ],
     "leftRibbon": []
   },
   "spacing": 8,
