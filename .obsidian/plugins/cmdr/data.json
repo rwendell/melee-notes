@@ -21,7 +21,14 @@
       "mode": "any"
     }
   ],
-  "pageHeader": [],
+  "pageHeader": [
+    {
+      "id": "obsidian-prozen:zenmode",
+      "icon": "lucide-scan-eye",
+      "name": "Zen mode",
+      "mode": "any"
+    }
+  ],
   "macros": [
     {
       "macro": [
