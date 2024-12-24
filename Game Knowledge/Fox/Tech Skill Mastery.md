@@ -40,6 +40,7 @@
 	- [x] Dashdance
 	- [x] Wavedash
 	- [x] Shield
+		- [ ] reverse b-air
 	- [ ] Pivot
 - [x] Jump Cancel
 	- [x] Grab

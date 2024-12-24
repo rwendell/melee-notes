@@ -67,6 +67,8 @@ catch people running away
 ## Wavedash
 ## Shield
 Great for baiting out options and then shield grabbing/up smashing/or wavedash out
+### Approaching B-air
+you can use shield stop during dash back to create a pseudo pivot approaching b-air
 # Recovery
 ## Firefox
 Main Recovery tool

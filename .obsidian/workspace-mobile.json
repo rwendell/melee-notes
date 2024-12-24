@@ -13,12 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Knowledge/Fox/Matchups/Falco.md",
+                "file": "res/templates/daily notes.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Falco"
+              "title": "daily notes"
             }
           }
         ]
@@ -165,6 +166,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -177,6 +179,10 @@
   "active": "aa63a30f3a2f809a",
   "lastOpenFiles": [
     "Game Knowledge/Fox/Tech Skill.md",
+    "Game Knowledge/Fox/Tech Skill Mastery.md",
+    "Daily Notes/2024/12-December/22nd Sunday.md",
+    "Daily Notes/2024/12-December/20th Friday.md",
+    "Daily Notes/2024/12-December/19th Thursday.md",
     "Game Knowledge/Fox/Matchups/Falco.md",
     "Game Knowledge/Fox/Matchups",
     "Health/Stretches.md",

@@ -16,6 +16,7 @@ template: "[[daily notes]]"
 - [ ] 1x10 Run -> Crouch -> D-Tilt
 - [ ] 3x10 FF from Plat
 - [ ] 2x8 Running waveshine -> Jab
+- [ ] 1x8 reverse approaching b-air (oos)
 ## Comments
 
 # Match Notes
