@@ -33,9 +33,9 @@
 - [x] Walk
 - [x] Run
 	- [x] crouch
-		- [ ] shine 
-		- [ ]  jab
-		- [ ] d-tilt
+		- [x] shine 
+		- [x]  jab
+		- [x] d-tilt
 - [x] Dash
 	- [x] Dashdance
 	- [x] Wavedash

@@ -5,8 +5,7 @@
   "monospaceFontFamily": "MonoLisa Nerd Font Mono",
   "enabledCssSnippets": [
     "image-utils",
-    "properties-hider",
-    "custom-line-width"
+    "properties-hider"
   ],
   "baseFontSize": 26,
   "showViewHeader": true,
