@@ -52,7 +52,8 @@
               "title": "Tech Skill Mastery"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -232,11 +233,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4ab8e7e8e0ad633d",
+  "active": "feb87f35440d7ece",
   "lastOpenFiles": [
     "Daily Notes/2024/12-December/27th Friday.md",
-    "res/templates/daily notes.md",
     "Game Knowledge/Fox/Tech Skill Mastery.md",
+    "res/templates/daily notes.md",
     "Daily Notes/2024/12-December/26th Thursday.md",
     "Game Knowledge/Fox/Tech Skill.md",
     "Daily Notes/2024/12-December/23rd Monday.md",

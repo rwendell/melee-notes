@@ -44,10 +44,10 @@
 	- [ ] Pivot
 - [x] Jump Cancel
 	- [x] Grab
-	- [ ] Up Smash
+	- [x] Up Smash
 	- [ ] Shine
 - [x] Moonwalk
-	- [x] Sticky Walk
+	- [ ] Sticky Walk
 		- [ ] Boost Run
 			- [ ] Charlie Walk
 ## Defensive Tech
