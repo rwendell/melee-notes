@@ -129,7 +129,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "right": {
     "id": "2de7d763c6bad9b5",
@@ -233,7 +234,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "feb87f35440d7ece",
+  "active": "bdbbf1226bd1e6d0",
   "lastOpenFiles": [
     "Daily Notes/2024/12-December/27th Friday.md",
     "Game Knowledge/Fox/Tech Skill Mastery.md",
