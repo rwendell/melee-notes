@@ -17,7 +17,6 @@ template: "[[daily notes]]"
 
 # Match Notes
 ## Implementation Goals
-- Dash -> Shield
 - FF from plat
 - Waveshine -> Jab
 - Dash Dance / movement while watching opponent
