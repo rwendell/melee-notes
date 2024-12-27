@@ -4,20 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b2f483d6c95c1aff",
+        "id": "739bb46ddeac6ef8",
         "type": "tabs",
         "children": [
           {
-            "id": "8766e57ff937794c",
+            "id": "7a0c90ff925d38e2",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Game Knowledge/Fox/Tech Skill.md",
-                "staged": false
+                "file": "res/templates/daily notes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (Tech Skill)"
+              "icon": "lucide-file",
+              "title": "daily notes"
             }
           }
         ]
@@ -32,17 +34,8 @@
       {
         "id": "6f96cae010a543e8",
         "type": "tabs",
+        "dimension": 79.44126074498567,
         "children": [
-          {
-            "id": "dc154b1357dc43b7",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          },
           {
             "id": "feb87f35440d7ece",
             "type": "leaf",
@@ -56,6 +49,40 @@
             }
           },
           {
+            "id": "eaaa97c74a4dd171",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dc154b1357dc43b7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a700ad4d28f78355",
+        "type": "tabs",
+        "dimension": 20.558739255014327,
+        "children": [
+          {
             "id": "b080fd70d0e1ef6e",
             "type": "leaf",
             "state": {
@@ -64,9 +91,18 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "dc317990583fd8ae",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -89,26 +125,8 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
-          },
-          {
-            "id": "eaaa97c74a4dd171",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "34c06df667e335ac",
@@ -151,11 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "res/templates/daily notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from daily notes"
             }
           },
           {
@@ -176,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 309.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,8 +210,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8766e57ff937794c",
+  "active": "7a0c90ff925d38e2",
   "lastOpenFiles": [
+    "Daily Notes/2024/12-December/26th Thursday.md",
     "Game Knowledge/Fox/Tech Skill.md",
     "Daily Notes/2024/12-December/23rd Monday.md",
     "Game Knowledge/Glossary.md",
@@ -218,7 +239,6 @@
     "Game Knowledge/Fox/Combos.md",
     "Game Knowledge/Fox/Game States/Neutral.md",
     "Game Knowledge/Fox/Game States/Disadvantage.md",
-    "Game Knowledge/Fox/Game States/Advantage.md",
     "Game Knowledge/Fox/Game States",
     "Game Knowledge/Fox/Matchups",
     "Game Knowledge/Fox/Tech Skill",
