@@ -28,32 +28,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024/12-December/27th Friday.md",
+                "file": "res/templates/daily notes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "27th Friday"
-            }
-          },
-          {
-            "id": "bdbbf1226bd1e6d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Knowledge/Fox/Tech Skill Mastery.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tech Skill Mastery"
+              "title": "daily notes"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -234,9 +219,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bdbbf1226bd1e6d0",
+  "active": "7a0c90ff925d38e2",
   "lastOpenFiles": [
     "Daily Notes/2024/12-December/27th Friday.md",
+    "Daily Notes/2024/12-December/31st Tuesday.md",
     "Game Knowledge/Fox/Tech Skill Mastery.md",
     "res/templates/daily notes.md",
     "Daily Notes/2024/12-December/26th Thursday.md",
@@ -262,7 +248,6 @@
     "Game Knowledge/Fox/Matchups/Falco.md",
     "res/goals.md",
     "Game Knowledge/Fox/Combos.md",
-    "Game Knowledge/Fox/Game States/Neutral.md",
     "Game Knowledge/Fox/Game States",
     "Game Knowledge/Fox/Matchups",
     "Game Knowledge/Fox/Tech Skill",
