@@ -9,5 +9,7 @@
   ],
   "baseFontSize": 26,
   "showViewHeader": true,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "interfaceFontFamily": "",
+  "textFontFamily": "Inter"
 }
