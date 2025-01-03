@@ -11,16 +11,21 @@ template: "[[daily notes]]"
 - [ ] 2x10 Full Hop Drill Air On Body
 - [ ] 2x8 Running waveshine -> Jab
 - [ ] 1x5 Shine Up Smash on Enemy
+- [ ] 1x10 take aerial (CC) -> shine -> option
+	- [ ] wavedash
+	- [ ] shine
+	- [ ] grab
+	- [ ] SHFFL Aerial
 - [ ] 1x10 SHFFL Aerial -> Shine
 - [ ] 1x5 SHFFL Drill -> Option
 	- [ ] U-Tilt
 	- [ ] Grab
-- [ ] 2x10 take/shield aerial (CC) -> wavedash -> option
-	- [ ] waveshine
-		- [ ] grab
-		- [ ] aerial
-	- [ ] grab
-	- [ ] SHFFL Aerial
+- [ ] 1x5 Shield Option -> Counter-option (practice vs Marth)
+	- [ ] Shine
+	- [ ] Grab
+	- [ ] Waveshine
+	- [ ] Up smash
+	- [ ] Wavedash
 ## Comments
 
 # Match Notes
@@ -31,7 +36,7 @@ template: "[[daily notes]]"
 ### Knock Down Characters
 - Waveshine -> Jab
 ### Marth
-- Shield -> Wavedash -> Grab
+- Shield -> Wavedash -> Up Smash
 - Waveshine -> Up Smash/Grab
 - Drill -> Up Tilt/Grab/Shine
 ## Analysis
