@@ -3,24 +3,24 @@ template: "[[daily notes]]"
 ---
 # Practice
 ## Warmup
-- [ ] 1x6 SHFFL Aerials on Shield/Body
-- [ ] 1x10 Run to Crouch -> Shine
-- [ ] 1x10 WD OOS
-- [ ] 1x10 FF from Plat
+- [x] 1x6 SHFFL Aerials on Shield/Body
+- [x] 1x10 Run to Crouch -> Shine
+- [x] 1x10 WD OOS
+- [x] 1x10 FF from Plat
 ## Practice
-- [ ] 2x10 Full Hop Drill Air On Body
-- [ ] 2x8 Running waveshine -> Jab
-- [ ] 1x5 Shine Up Smash on Enemy
-- [ ] 1x10 SHFFL Aerial -> Shine
-- [ ] 1x5 SHFFL Drill -> Option
+- [x] 2x10 Full Hop Drill Air On Body
+- [x] 2x8 Running waveshine -> Jab
+- [x] 1x5 Shine Up Smash on Enemy
+- [x] 1x10 SHFFL Aerial -> Shine
+- [x] 1x5 SHFFL Drill -> Option
 	- [ ] U-Tilt
 	- [ ] Grab
 - [ ] 2x10 take/shield aerial (CC) -> wavedash -> option
-	- [ ] waveshine
-		- [ ] grab
-		- [ ] aerial
-	- [ ] grab
-	- [ ] SHFFL Aerial
+	- [x] waveshine
+		- [x] grab
+		- [x] aerial
+	- [x] grab
+	- [x] SHFFL Aerial
 ## Comments
 
 # Match Notes

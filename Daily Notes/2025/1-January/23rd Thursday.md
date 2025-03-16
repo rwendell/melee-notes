@@ -28,8 +28,6 @@ template: "[[daily notes]]"
 ### General
 - Dash Dance / movement while watching opponent
 - Make sure you're not the only one approaching
-- work more wavelanding into 
-- pivot
 ### Knock Down Characters
 - Waveshine -> Jab
 ### Marth

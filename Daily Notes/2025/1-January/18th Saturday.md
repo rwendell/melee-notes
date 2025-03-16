@@ -22,14 +22,13 @@ template: "[[daily notes]]"
 	- [ ] grab
 	- [ ] SHFFL Aerial
 ## Comments
-
+- work more wavelanding into 
+- pivot
 # Match Notes
 ## Implementation Goals
 ### General
 - Dash Dance / movement while watching opponent
 - Make sure you're not the only one approaching
-- work more wavelanding into 
-- pivot
 ### Knock Down Characters
 - Waveshine -> Jab
 ### Marth
