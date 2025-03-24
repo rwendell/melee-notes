@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "24th Monday"
             }
+          },
+          {
+            "id": "697f94be625ea34f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "res/templates/daily notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "daily notes"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,11 +237,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4e50016638cfc2a2",
+  "active": "feb87f35440d7ece",
   "lastOpenFiles": [
-    "Daily Notes/2025/3-March/3rd Monday.md",
-    "Daily Notes/2025/3-March/24th Monday.md",
     "res/templates/daily notes.md",
+    "conflict-files-obsidian-git.md",
+    "Daily Notes/2025/3-March/24th Monday.md",
+    "Daily Notes/2025/3-March/15th Saturday.md",
+    "Daily Notes/2025/2-February/8th Saturday.md",
+    "Daily Notes/2025/1-January/29th Wednesday.md",
+    "Daily Notes/2025/1-January/28th Tuesday.md",
+    "Daily Notes/2025/1-January/25th Saturday.md",
+    "Daily Notes/2025/1-January/23rd Thursday.md",
+    "Daily Notes/2025/1-January/18th Saturday.md",
+    "Daily Notes/2025/3-March/3rd Monday.md",
     "Daily Notes/2025/3-March",
     "Daily Notes/2025/2-February/26th Wednesday.md",
     "res/Analysis Scratch.md",
@@ -237,16 +270,8 @@
     "Daily Notes/2025/1-January/5th Sunday.md",
     "Daily Notes/2025/1-January/4th Saturday.md",
     "Daily Notes/2025/1-January/3rd Friday.md",
-    "Daily Notes/2025/1-January/1st Wednesday.md",
     "Daily Notes/2025/1-January",
     "Daily Notes/2025",
-    "Daily Notes/2024/12-December/31st Tuesday.md",
-    "Game Knowledge/Fox/Matchups/Marth.md",
-    "Game Knowledge/Fox/Tech Skill.md",
-    "Daily Notes/2024/12-December/27th Friday.md",
-    "Game Knowledge/Fox/Tech Skill Mastery.md",
-    "Daily Notes/2024/12-December/26th Thursday.md",
-    "Daily Notes/2024/12-December/23rd Monday.md",
     "Untitled.canvas",
     "Game Knowledge/Fox/Game States",
     "Game Knowledge/Fox/Matchups",

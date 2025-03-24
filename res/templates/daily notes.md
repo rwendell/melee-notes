@@ -22,6 +22,9 @@ template: "[[daily notes]]"
 ### General
 - Get up close to opponents and apply pressure
 - Tech in a direction
+- Dash Dance / movement while watching opponent
+- Make sure you're not the only one approaching
+- pivot
 ### Knock Down Characters
 - Waveshine -> Jab
 ## Analysis
