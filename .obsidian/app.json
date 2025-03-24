@@ -10,5 +10,5 @@
   "readableLineLength": true,
   "foldHeading": true,
   "foldIndent": false,
-  "showRibbon": false
+  "spellcheck": false
 }

@@ -3,35 +3,25 @@ template: "[[daily notes]]"
 ---
 # Practice
 ## Warmup
-- [ ] 1x6 SHFFL Aerials on Shield/Body
-- [ ] 1x10 Run to Crouch -> Shine
-- [ ] 1x10 WD OOS
-- [ ] 1x10 FF from Plat
+- Dash-Dance On Platforms
+- Waveland On Platforms - option
+- Dash -> Shield Stop
+- Waveshine on shield
+- Waveshine backwards
 ## Practice
-- [ ] 2x10 Full Hop Drill Air On Body
-- [ ] 2x8 Running waveshine -> Jab
-- [ ] 1x5 Shine Up Smash on Enemy
-- [ ] 1x10 SHFFL Aerial -> Shine
-- [ ] 1x5 SHFFL Drill -> Option
-	- [ ] U-Tilt
-	- [ ] Grab
-- [ ] 2x10 take/shield aerial (CC) -> wavedash -> option
-	- [ ] waveshine
-		- [ ] grab
-		- [ ] aerial
-	- [ ] grab
-	- [ ] SHFFL Aerial
+- Drill -> Grab/Shine
+- Shield Stop -> Aerial
+- Waveshine -> Dash Back -> Instant Aerial
+- Dashdance close up -> Instant SHFFL N-air
+- Sheik tech chase training
+- shine out of dash
 ## Comments
 
 # Match Notes
 ## Implementation Goals
 ### General
-- Dash Dance / movement while watching opponent
-- Make sure you're not the only one approaching
+- Get up close to opponents and apply pressure
+- Tech in a direction
 ### Knock Down Characters
 - Waveshine -> Jab
-### Marth
-- Shield -> Wavedash -> Grab
-- Waveshine -> Up Smash/Grab
-- Drill -> Up Tilt/Grab/Shine
 ## Analysis

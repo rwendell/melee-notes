@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "c7d673efbd300048",
+        "id": "bc7050b495dfdd4f",
         "type": "tabs",
         "children": [
           {
-            "id": "dbc986b6e4b8ed7f",
+            "id": "4e50016638cfc2a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2025/1-January/3rd Friday.md",
+                "file": "Daily Notes/2025/3-March/24th Monday.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "3rd Friday"
+              "title": "24th Monday"
             }
           }
         ]
@@ -41,7 +50,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -80,8 +90,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -90,16 +100,15 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "history",
-              "title": "History"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 320.5,
-    "collapsed": true
+    "width": 320.5
   },
   "right": {
     "id": "2de7d763c6bad9b5",
@@ -115,8 +124,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -203,9 +212,30 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dbc986b6e4b8ed7f",
+  "active": "4e50016638cfc2a2",
   "lastOpenFiles": [
+    "Daily Notes/2025/3-March/3rd Monday.md",
+    "Daily Notes/2025/3-March/24th Monday.md",
     "res/templates/daily notes.md",
+    "Daily Notes/2025/3-March",
+    "Daily Notes/2025/2-February/26th Wednesday.md",
+    "res/Analysis Scratch.md",
+    "Daily Notes/2025/2-February/20th Thursday.md",
+    "Daily Notes/2025/2-February/21st Friday.md",
+    "Daily Notes/2025/2-February/19th Wednesday.md",
+    "Daily Notes/2025/2-February/16th Sunday.md",
+    "Daily Notes/2025/2-February/17th Monday.md",
+    "Daily Notes/2025/1-January/22nd Wednesday.md",
+    "res/templates/daily notes backup.md",
+    "res/attachments/Game_20250217T000307.slp",
+    "res/attachments/Game_20250217T000041.slp",
+    "res/attachments/Game_20250216T235822.slp",
+    "Daily Notes/2025/2-February/7th Friday.md",
+    "Daily Notes/2025/2-February",
+    "Daily Notes/2025/1-January/21st Tuesday.md",
+    "Daily Notes/2025/1-January/6th Monday.md",
+    "Daily Notes/2025/1-January/5th Sunday.md",
+    "Daily Notes/2025/1-January/4th Saturday.md",
     "Daily Notes/2025/1-January/3rd Friday.md",
     "Daily Notes/2025/1-January/1st Wednesday.md",
     "Daily Notes/2025/1-January",
@@ -217,31 +247,10 @@
     "Game Knowledge/Fox/Tech Skill Mastery.md",
     "Daily Notes/2024/12-December/26th Thursday.md",
     "Daily Notes/2024/12-December/23rd Monday.md",
-    "Game Knowledge/Glossary.md",
-    "Daily Notes/2024/12-December/22nd Sunday.md",
-    "Daily Notes/2023/12-December/22nd Friday.md",
-    "Daily Notes/2023/12-December/6th Wednesday.md",
-    "Daily Notes/2023/12-December/2nd Saturday.md",
-    "Daily Notes/2024/11-November/1st Friday.md",
-    "Daily Notes/2023/10-October/31st Tuesday.md",
-    "Daily Notes/2024/12-December/16th Monday.md",
-    "Daily Notes/2023/10-October/30th Monday.md",
-    "Daily Notes/2024/12-December/7th Saturday.md",
-    "Daily Notes/2024/12-December/15th Sunday.md",
-    "Daily Notes/2024/12-December/19th Thursday.md",
-    "Daily Notes/2024/12-December/20th Friday.md",
-    "Daily Notes/2024/10-October/15th Tuesday.md",
     "Untitled.canvas",
-    "Game Knowledge/Fox/Overview.md",
-    "conflict-files-obsidian-git.md",
     "Game Knowledge/Fox/Game States",
     "Game Knowledge/Fox/Matchups",
     "Game Knowledge/Fox/Tech Skill",
-    "Game Knowledge/Fox",
-    "Game Knowledge/Falco",
-    "Daily Notes/2024/12-December",
-    "Daily Notes/2024/11-November",
-    "Daily Notes/2024/10-October",
     "res/attachments/Hands Down.gif",
     "res/attachments/Open Handed Stretch Up.gif",
     "res/attachments/Open Handed Stretch Down.gif",
