@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "res/templates/daily notes.md",
+                "file": "Daily Notes/2025/4-April/14th Monday.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "daily notes"
+              "title": "14th Monday"
             }
           }
         ],
@@ -237,11 +237,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "feb87f35440d7ece",
+  "active": "697f94be625ea34f",
   "lastOpenFiles": [
+    "res/templates/matchup.md",
+    "Daily Notes/2025/4-April/14th Monday.md",
+    "res/templates/daily notes backup.md",
     "res/templates/daily notes.md",
-    "conflict-files-obsidian-git.md",
+    "Daily Notes/2025/4-April/2nd Wednesday.md",
     "Daily Notes/2025/3-March/24th Monday.md",
+    "Daily Notes/2025/4-April",
+    "conflict-files-obsidian-git.md",
     "Daily Notes/2025/3-March/15th Saturday.md",
     "Daily Notes/2025/2-February/8th Saturday.md",
     "Daily Notes/2025/1-January/29th Wednesday.md",
@@ -259,7 +264,6 @@
     "Daily Notes/2025/2-February/16th Sunday.md",
     "Daily Notes/2025/2-February/17th Monday.md",
     "Daily Notes/2025/1-January/22nd Wednesday.md",
-    "res/templates/daily notes backup.md",
     "res/attachments/Game_20250217T000307.slp",
     "res/attachments/Game_20250217T000041.slp",
     "res/attachments/Game_20250216T235822.slp",
@@ -267,15 +271,11 @@
     "Daily Notes/2025/2-February",
     "Daily Notes/2025/1-January/21st Tuesday.md",
     "Daily Notes/2025/1-January/6th Monday.md",
-    "Daily Notes/2025/1-January/5th Sunday.md",
-    "Daily Notes/2025/1-January/4th Saturday.md",
-    "Daily Notes/2025/1-January/3rd Friday.md",
     "Daily Notes/2025/1-January",
     "Daily Notes/2025",
     "Untitled.canvas",
     "Game Knowledge/Fox/Game States",
     "Game Knowledge/Fox/Matchups",
-    "Game Knowledge/Fox/Tech Skill",
     "res/attachments/Hands Down.gif",
     "res/attachments/Open Handed Stretch Up.gif",
     "res/attachments/Open Handed Stretch Down.gif",
